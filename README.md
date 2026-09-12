@@ -237,3 +237,6 @@ This repository serves as the official landing page for Cole2k Media Codec Pack.
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Cole2k Media Codec Pack today!**
+
+---
+**Last updated:** 2026-09-12 04:20:00 UTC
