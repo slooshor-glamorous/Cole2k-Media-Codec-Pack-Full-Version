@@ -239,4 +239,4 @@ This repository serves as the official landing page for Cole2k Media Codec Pack.
 **Get the most recent version of Cole2k Media Codec Pack today!**
 
 ---
-**Last updated:** 2026-10-04 21:12:47 UTC
+**Last updated:** 2026-10-05 00:41:33 UTC
